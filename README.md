@@ -1,1 +1,1 @@
-This is aranjaff's first edition.
+This is Aran's first git project.
